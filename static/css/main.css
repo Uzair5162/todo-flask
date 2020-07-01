@@ -1,0 +1,56 @@
+.page-content {
+    margin-top: 5%;
+    margin-left: 10em;
+    margin-right: 10em;
+
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4em;
+}
+
+.tasks {
+    font-family: 'Montserrat', sans-serif;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+th {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+form {
+    margin-bottom: 1em;
+    width: 100%;
+    display: inline-block;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+#field {
+    width: 100%;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+    width: 30%;
+}
+
+input {
+    width: 69%;
+}
